@@ -11,87 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header/>
         <div>
-          <p className="description">
-            Get started by editing <code>pages/index.js</code>
-          </p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
-          <p>lorem</p>
+          <h1>Teste de popup Gontijo</h1>
+          <div height='100vh'></div>
         </div>
       </main>
       <Footer />
