@@ -6,15 +6,88 @@ export default function Home() {
   return (
     <div className="container" style={{height:'1000vh'}}>
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Gontijo</title>
       </Head>
 
       <main>
-        <Header/>
+        <Header title="Popup Exit e Scroll Gontijo" />
         <div>
-          <h1>Teste de popup Gontijo</h1>
-          <div height='100vh'></div>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
+          <p>lorem</p>
         </div>
       </main>
       <Footer />
